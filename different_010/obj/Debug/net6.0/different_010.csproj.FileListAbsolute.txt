@@ -1,0 +1,15 @@
+C:\Users\fadeev_i\Desktop\GB\Lecture C#\Lecture_C-\different_010\bin\Debug\net6.0\different_010.exe
+C:\Users\fadeev_i\Desktop\GB\Lecture C#\Lecture_C-\different_010\bin\Debug\net6.0\different_010.deps.json
+C:\Users\fadeev_i\Desktop\GB\Lecture C#\Lecture_C-\different_010\bin\Debug\net6.0\different_010.runtimeconfig.json
+C:\Users\fadeev_i\Desktop\GB\Lecture C#\Lecture_C-\different_010\bin\Debug\net6.0\different_010.dll
+C:\Users\fadeev_i\Desktop\GB\Lecture C#\Lecture_C-\different_010\bin\Debug\net6.0\different_010.pdb
+C:\Users\fadeev_i\Desktop\GB\Lecture C#\Lecture_C-\different_010\obj\Debug\net6.0\different_010.csproj.AssemblyReference.cache
+C:\Users\fadeev_i\Desktop\GB\Lecture C#\Lecture_C-\different_010\obj\Debug\net6.0\different_010.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fadeev_i\Desktop\GB\Lecture C#\Lecture_C-\different_010\obj\Debug\net6.0\different_010.AssemblyInfoInputs.cache
+C:\Users\fadeev_i\Desktop\GB\Lecture C#\Lecture_C-\different_010\obj\Debug\net6.0\different_010.AssemblyInfo.cs
+C:\Users\fadeev_i\Desktop\GB\Lecture C#\Lecture_C-\different_010\obj\Debug\net6.0\different_010.csproj.CoreCompileInputs.cache
+C:\Users\fadeev_i\Desktop\GB\Lecture C#\Lecture_C-\different_010\obj\Debug\net6.0\different_010.dll
+C:\Users\fadeev_i\Desktop\GB\Lecture C#\Lecture_C-\different_010\obj\Debug\net6.0\refint\different_010.dll
+C:\Users\fadeev_i\Desktop\GB\Lecture C#\Lecture_C-\different_010\obj\Debug\net6.0\different_010.pdb
+C:\Users\fadeev_i\Desktop\GB\Lecture C#\Lecture_C-\different_010\obj\Debug\net6.0\different_010.genruntimeconfig.cache
+C:\Users\fadeev_i\Desktop\GB\Lecture C#\Lecture_C-\different_010\obj\Debug\net6.0\ref\different_010.dll
