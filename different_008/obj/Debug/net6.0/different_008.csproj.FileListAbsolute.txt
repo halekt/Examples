@@ -1,0 +1,15 @@
+C:\Users\fadeev_i\Desktop\GB\Lecture C#\Lecture_C-\different_008\obj\Debug\net6.0\different_008.csproj.AssemblyReference.cache
+C:\Users\fadeev_i\Desktop\GB\Lecture C#\Lecture_C-\different_008\obj\Debug\net6.0\different_008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fadeev_i\Desktop\GB\Lecture C#\Lecture_C-\different_008\obj\Debug\net6.0\different_008.AssemblyInfoInputs.cache
+C:\Users\fadeev_i\Desktop\GB\Lecture C#\Lecture_C-\different_008\obj\Debug\net6.0\different_008.AssemblyInfo.cs
+C:\Users\fadeev_i\Desktop\GB\Lecture C#\Lecture_C-\different_008\obj\Debug\net6.0\different_008.csproj.CoreCompileInputs.cache
+C:\Users\fadeev_i\Desktop\GB\Lecture C#\Lecture_C-\different_008\bin\Debug\net6.0\different_008.exe
+C:\Users\fadeev_i\Desktop\GB\Lecture C#\Lecture_C-\different_008\bin\Debug\net6.0\different_008.deps.json
+C:\Users\fadeev_i\Desktop\GB\Lecture C#\Lecture_C-\different_008\bin\Debug\net6.0\different_008.runtimeconfig.json
+C:\Users\fadeev_i\Desktop\GB\Lecture C#\Lecture_C-\different_008\bin\Debug\net6.0\different_008.dll
+C:\Users\fadeev_i\Desktop\GB\Lecture C#\Lecture_C-\different_008\bin\Debug\net6.0\different_008.pdb
+C:\Users\fadeev_i\Desktop\GB\Lecture C#\Lecture_C-\different_008\obj\Debug\net6.0\different_008.dll
+C:\Users\fadeev_i\Desktop\GB\Lecture C#\Lecture_C-\different_008\obj\Debug\net6.0\refint\different_008.dll
+C:\Users\fadeev_i\Desktop\GB\Lecture C#\Lecture_C-\different_008\obj\Debug\net6.0\different_008.pdb
+C:\Users\fadeev_i\Desktop\GB\Lecture C#\Lecture_C-\different_008\obj\Debug\net6.0\different_008.genruntimeconfig.cache
+C:\Users\fadeev_i\Desktop\GB\Lecture C#\Lecture_C-\different_008\obj\Debug\net6.0\ref\different_008.dll
