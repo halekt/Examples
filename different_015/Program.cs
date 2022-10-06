@@ -11,7 +11,7 @@ while( num != 0) // != означает не равно
 {
     temp = num%10; // %10 выводит последнюю цифру числа
     if(temp > max) max = temp;
-    num = num/10; //
+    num = num/10; // /10 убирает последную цифру чисел
 }
 
 Console.WriteLine(max);
