@@ -1,0 +1,15 @@
+C:\Users\fadeev_i\Desktop\GB\git_stminar_2\Lecture_C-\different_015\bin\Debug\net6.0\different_015.exe
+C:\Users\fadeev_i\Desktop\GB\git_stminar_2\Lecture_C-\different_015\bin\Debug\net6.0\different_015.deps.json
+C:\Users\fadeev_i\Desktop\GB\git_stminar_2\Lecture_C-\different_015\bin\Debug\net6.0\different_015.runtimeconfig.json
+C:\Users\fadeev_i\Desktop\GB\git_stminar_2\Lecture_C-\different_015\bin\Debug\net6.0\different_015.dll
+C:\Users\fadeev_i\Desktop\GB\git_stminar_2\Lecture_C-\different_015\bin\Debug\net6.0\different_015.pdb
+C:\Users\fadeev_i\Desktop\GB\git_stminar_2\Lecture_C-\different_015\obj\Debug\net6.0\different_015.csproj.AssemblyReference.cache
+C:\Users\fadeev_i\Desktop\GB\git_stminar_2\Lecture_C-\different_015\obj\Debug\net6.0\different_015.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fadeev_i\Desktop\GB\git_stminar_2\Lecture_C-\different_015\obj\Debug\net6.0\different_015.AssemblyInfoInputs.cache
+C:\Users\fadeev_i\Desktop\GB\git_stminar_2\Lecture_C-\different_015\obj\Debug\net6.0\different_015.AssemblyInfo.cs
+C:\Users\fadeev_i\Desktop\GB\git_stminar_2\Lecture_C-\different_015\obj\Debug\net6.0\different_015.csproj.CoreCompileInputs.cache
+C:\Users\fadeev_i\Desktop\GB\git_stminar_2\Lecture_C-\different_015\obj\Debug\net6.0\different_015.dll
+C:\Users\fadeev_i\Desktop\GB\git_stminar_2\Lecture_C-\different_015\obj\Debug\net6.0\refint\different_015.dll
+C:\Users\fadeev_i\Desktop\GB\git_stminar_2\Lecture_C-\different_015\obj\Debug\net6.0\different_015.pdb
+C:\Users\fadeev_i\Desktop\GB\git_stminar_2\Lecture_C-\different_015\obj\Debug\net6.0\different_015.genruntimeconfig.cache
+C:\Users\fadeev_i\Desktop\GB\git_stminar_2\Lecture_C-\different_015\obj\Debug\net6.0\ref\different_015.dll
