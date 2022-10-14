@@ -1,0 +1,15 @@
+C:\Users\fadeev_i\Desktop\GB\git_stminar_2\Lecture_C-\different_020\bin\Debug\net6.0\different_020.exe
+C:\Users\fadeev_i\Desktop\GB\git_stminar_2\Lecture_C-\different_020\bin\Debug\net6.0\different_020.deps.json
+C:\Users\fadeev_i\Desktop\GB\git_stminar_2\Lecture_C-\different_020\bin\Debug\net6.0\different_020.runtimeconfig.json
+C:\Users\fadeev_i\Desktop\GB\git_stminar_2\Lecture_C-\different_020\bin\Debug\net6.0\different_020.dll
+C:\Users\fadeev_i\Desktop\GB\git_stminar_2\Lecture_C-\different_020\bin\Debug\net6.0\different_020.pdb
+C:\Users\fadeev_i\Desktop\GB\git_stminar_2\Lecture_C-\different_020\obj\Debug\net6.0\different_020.csproj.AssemblyReference.cache
+C:\Users\fadeev_i\Desktop\GB\git_stminar_2\Lecture_C-\different_020\obj\Debug\net6.0\different_020.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fadeev_i\Desktop\GB\git_stminar_2\Lecture_C-\different_020\obj\Debug\net6.0\different_020.AssemblyInfoInputs.cache
+C:\Users\fadeev_i\Desktop\GB\git_stminar_2\Lecture_C-\different_020\obj\Debug\net6.0\different_020.AssemblyInfo.cs
+C:\Users\fadeev_i\Desktop\GB\git_stminar_2\Lecture_C-\different_020\obj\Debug\net6.0\different_020.csproj.CoreCompileInputs.cache
+C:\Users\fadeev_i\Desktop\GB\git_stminar_2\Lecture_C-\different_020\obj\Debug\net6.0\different_020.dll
+C:\Users\fadeev_i\Desktop\GB\git_stminar_2\Lecture_C-\different_020\obj\Debug\net6.0\refint\different_020.dll
+C:\Users\fadeev_i\Desktop\GB\git_stminar_2\Lecture_C-\different_020\obj\Debug\net6.0\different_020.pdb
+C:\Users\fadeev_i\Desktop\GB\git_stminar_2\Lecture_C-\different_020\obj\Debug\net6.0\different_020.genruntimeconfig.cache
+C:\Users\fadeev_i\Desktop\GB\git_stminar_2\Lecture_C-\different_020\obj\Debug\net6.0\ref\different_020.dll
